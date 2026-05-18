@@ -32,22 +32,6 @@ It demonstrates the fundamentals of **ASP.NET Core MVC**, **Entity Framework**, 
 | Databases | MS SQL, MongoDB |
 | IDE | Visual Studio 2022 |
 | OS | Windows 10 / 11 |
-
----
-
-### 🖼️ Screenshots
-
-#### 👥 Person List
-![Seznam osob](screenshots/seznam_osob.png)
-
-#### 🧾 Invoice List
-![Seznam faktur](screenshots/seznam_faktur.png)
-
-#### 📊 Statistics
-![Statistiky faktur](screenshots/statistiky_faktur.png)
-
-*(Place these images into a folder named `screenshots` in your project.)*
-
 ---
 
 ### 🚀 How to Run
@@ -122,21 +106,6 @@ Ukazuje principy práce s **ASP.NET Core MVC**, **Entity Frameworkem**, **MS SQL
 | Databáze | MS SQL, MongoDB |
 | IDE | Visual Studio 2022 |
 | OS | Windows 10 / 11 |
-
----
-
-### 🖼️ Ukázky obrazovek
-
-#### 👥 Seznam osob
-![Seznam osob](screenshots/seznam_osob.png)
-
-#### 🧾 Seznam faktur
-![Seznam faktur](screenshots/seznam_faktur.png)
-
-#### 📊 Statistiky
-![Statistiky faktur](screenshots/statistiky_faktur.png)
-
-*(Uložte obrázky do složky `screenshots` v projektu.)*
 
 ---
 
